@@ -1,4 +1,4 @@
-#WiMax 802.16
+# WiMax 802.16
 Q1) Why was WiMax devloped?
 WiMax was developed to provide broadband wireless access in large gepgraphical area (about 10s of kms).
 It was to compete with wired broadbadn connection. Especially, in the rural areasa, it is expensive to lay wired services.
@@ -11,6 +11,6 @@ Best effort services like web-browsing and email
 WiMax was taken in mobility but
 LTE essentially, inspired from WiMax gunned it down badly. So Wimax was limited to fixed infrastructure only.
 Follwoing image provides a comparison of bitrate using WiMax
-![Wimax]()
+![Wimax](/home/nepathak/Pictures)
 
 
